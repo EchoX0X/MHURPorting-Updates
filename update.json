@@ -1,10 +1,10 @@
 {
-  "Version": "v0.4.21-Alpha",
+  "Version": "v0.4.22-Alpha",
   "DownloadUrl": "https://github.com/EchoX0X/MHURPorting/releases/download/latest/MHURPorting.zip",
   "Notes": "Latest MHURPorting build.",
   "BugReportUrl": "https://mhurporting-bug-reports.echox0x.workers.dev",
   "LockedSections": [
     "AllJustice"
   ],
-  "PublishedAt": "2026-09-02T01:31:02.5235403Z"
+  "PublishedAt": "2026-09-03T19:13:32.7811173Z"
 }
