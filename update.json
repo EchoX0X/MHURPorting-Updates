@@ -1,6 +1,6 @@
 {
   "Version": "v0.4.22-Alpha",
-  "DownloadUrl": "https://github.com/EchoX0X/MHURPorting/releases/download/latest/MHURPorting.zip",
+  "DownloadUrl": "https://github.com/EchoX0X/MHURPorting/releases/download/latest/MHURPorting.zip?v=0.4.22",
   "Notes": "Live game costume mappings; corrected Toga parts and weapon textures; bundled catalogs and tools; material cache refresh and packaging fixes.",
   "BugReportUrl": "https://mhurporting-bug-reports.echox0x.workers.dev",
   "LockedSections": [
