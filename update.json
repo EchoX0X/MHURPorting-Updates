@@ -1,11 +1,11 @@
 {
-  "Version": "v0.4.23-Alpha",
-  "DownloadUrl": "https://github.com/EchoX0X/MHURPorting/releases/download/latest/MHURPorting.zip?build=f1eb925d6dc56af864997089719d2f68cbc5687c7c221b0c8d642c1b1acd13b2",
-  "Sha256": "f1eb925d6dc56af864997089719d2f68cbc5687c7c221b0c8d642c1b1acd13b2",
+  "Version": "v0.4.24-Alpha",
+  "DownloadUrl": "https://github.com/EchoX0X/MHURPorting/releases/download/latest/MHURPorting.zip?build=d0e1e2bf6767f13fadfbb4bcc453a8a15b18ba45a1fa5cdb2efe0d494e2ed483",
+  "Sha256": "d0e1e2bf6767f13fadfbb4bcc453a8a15b18ba45a1fa5cdb2efe0d494e2ed483",
   "Notes": "Latest MHURPorting build.",
   "BugReportUrl": "https://mhurporting-bug-reports.echox0x.workers.dev",
   "LockedSections": [
     "AllJustice"
   ],
-  "PublishedAt": "2026-09-10T01:55:42.6318384Z"
+  "PublishedAt": "2026-09-10T02:05:01.7207669Z"
 }
