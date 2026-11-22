@@ -1,11 +1,11 @@
 {
-  "Version": "v0.4.31-Alpha",
-  "DownloadUrl": "https://github.com/EchoX0X/MHURPorting/releases/download/latest/MHURPorting.zip?build=72d5ef4a77511e5e4ed49ffcc7aa3ad82b91369a3aff111694133e73a40cf15d",
-  "Sha256": "72d5ef4a77511e5e4ed49ffcc7aa3ad82b91369a3aff111694133e73a40cf15d",
-  "Notes": "Blender plugin sync now verifies installed files and installs dependencies correctly; fixed settings saving.",
+  "Version": "v0.4.30-Alpha",
+  "DownloadUrl": "https://github.com/EchoX0X/MHURPorting/releases/download/latest/MHURPorting.zip?build=ddd4aa8e20b11193754df8436afd4b2980eea0a8c59def69a5f72be22d94aca9",
+  "Sha256": "ddd4aa8e20b11193754df8436afd4b2980eea0a8c59def69a5f72be22d94aca9",
+  "Notes": "Latest MHURPorting build.",
   "BugReportUrl": "https://mhurporting-bug-reports.echox0x.workers.dev",
   "LockedSections": [
     "AllJustice"
   ],
-  "PublishedAt": "2026-11-22T22:43:15.8660014Z"
+  "PublishedAt": "2026-11-22T22:44:58.8251566Z"
 }
